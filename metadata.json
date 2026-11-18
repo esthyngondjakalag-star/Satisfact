@@ -1,0 +1,6 @@
+{
+  "name": "FormaCare",
+  "description": "Plateforme SaaS B2B de gestion du service après-prestation pour les organismes de formation professionnelle et de certification : mesure de la satisfaction, évaluation des formateurs, gestion des réclamations et reporting analytique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
